@@ -22,7 +22,6 @@ It is a comprehensive cryptocurrency portfolio management tool designed to help 
 
 ## Application Screenshots
 
-<img src="https://github.com/user-attachments/assets/20e51cde-e393-42a5-b626-21556470159e" width = 150 style="margin-right: 20px;">
 <img src="https://github.com/user-attachments/assets/4fe57bc3-504c-4917-8947-dd4e22128e25" width = 150 style="margin-right: 20px;">
 <img src="https://github.com/user-attachments/assets/17cd34c2-27f8-47ba-b587-5abdbdaab348" width = 150 style="margin-right: 20px;">
 <img src="https://github.com/user-attachments/assets/8995aa72-b171-4604-bcd3-65fa4413bdf9" width = 150 style="margin-right: 20px;">
